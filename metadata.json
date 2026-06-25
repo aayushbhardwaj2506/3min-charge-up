@@ -1,0 +1,6 @@
+{
+  "name": "3 Minute Charge-Up",
+  "description": "An AI-powered cinematic mood transformation engine that helps students reset and charge up their mindset in 3 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
